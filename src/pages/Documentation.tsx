@@ -12,7 +12,7 @@ const Documentation = () => {
         </h2>
         <div className="flex items-center justify-center">
           <a
-            href="https://drive.google.com/file/d/1O0vZ1AGMhiz7qSCuOqA9EbA2jk8Ui2X2/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1OxBC585P5Dac2dBK3HCeFx44e4YQ2Qc5/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-600 text-white px-4 sm:px-6 py-2 sm:py-3 rounded-md font-medium shadow hover:bg-green-700 transition"

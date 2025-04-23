@@ -1,13 +1,19 @@
 [
-  { "name": "Disha Pandey", "designation": "Class X" },
-  { "name": "Radhika", "designation": "Class X" },
-  { "name": "Kajal Pandey", "designation": "Class X" },
-  { "name": "Chotelal", "designation": "Class X" },
-
-  { "name": "Bhavita", "designation": "Class X" },
-  { "name": "Ankita Patel", "designation": "Class X" },
-  { "name": "Anandi Jaiswal", "designation": "Class IX" },
-  { "name": "Mansi Chaubey", "designation": "Class IX" },
-  { "name": "Sameer Prajapati", "designation": "Class IX" },
-  { "name": "Reshma", "designation": "Class IX" }
+  { "name": "Roshni", "designation": "Class V" },
+  { "name": "Shaheen", "designation": "Class V" },
+  { "name": "Harsh", "designation": "Class V" },
+  { "name": "Zikra", "designation": "Class V" },
+  { "name": "Vivek", "designation": "Class V" },
+  { "name": "Sabeena", "designation": "Class V" },
+  { "name": "Wahid", "designation": "Class V" },
+  { "name": "Muskan", "designation": "Class IV" },
+  { "name": "Mujammil Raza", "designation": "Class IV" },
+  { "name": "Md. Umar", "designation": "Class IV" },
+  { "name": "Md. Kaif", "designation": "Class IV" },
+  { "name": "Ayushi", "designation": "Class IV" },
+  { "name": "Ayush Chaudhary", "designation": "Class IV" },
+  { "name": "Arpit Gupta", "designation": "Class IV" },
+  { "name": "Shashikala", "designation": "Class IV" },
+  { "name": "Vasi Abbas", "designation": "Class IV" },
+  { "name": "Komal Kumari", "designation": "Class IV" }
 ]

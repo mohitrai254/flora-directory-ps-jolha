@@ -29,7 +29,7 @@ const Navbar = () => {
             <Home className="w-5 h-5 sm:w-6 sm:h-6" />
           </span>
           <span className="text-green-900 drop-shadow-[0_2px_3px_rgba(0,0,0,0.18)]">
-            Vidya Mandir Flora Directory
+            P S Jolha Flora Directory
           </span>
         </Link>
 

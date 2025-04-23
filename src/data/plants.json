@@ -1,50 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Indian Gooseberry (Amla)",
-    "scientificName": "Phyllanthus emblica",
-    "type": "Medicinal/Fruit bearing",
-    "details": "Amla (Phyllanthus emblica), or Indian Gooseberry, is a potent source of vitamin C and antioxidants. It boosts immunity, supports digestion, and improves skin and hair health. Widely used in Ayurveda, it is an ingredient in formulations like Chyawanprash and Triphala. The fruit is consumed fresh, dried, or as juice and pickle.",
-    "image": "Amla.jpg"
+    "name": "Bougainvillea",
+    "scientificName": "Bougainvillea glabra",
+    "type": "Ornamental/Climber",
+    "details": "Bougainvillea is a vibrant ornamental plant known for its colorful bracts that resemble petals. Native to South America, it thrives in warm climates and needs minimal care. Commonly grown on fences or walls as a climber, it adds vivid color to landscapes and is highly drought-tolerant.",
+    "image": "Bougainvillea.jpg"
   },
   {
     "id": 2,
-    "name": "Mango (Aam)",
-    "scientificName": "Mangifera indica",
-    "type": "Fruit bearing",
-    "details": "Mango (Mangifera indica) is a tropical fruit known for its sweet, juicy pulp and rich flavour. High in vitamins A and C, as well as dietary fibre, it supports eye health and boosts immunity. Mangoes also provide antioxidants like beta-carotene and are a good source of potassium. Widely cultivated in India, it is enjoyed fresh or processed into juices, pickles, and desserts. The leaves and bark also hold significance in traditional medicine and cultural rituals.",
-    "image": "Aam.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Wood apple (Bel)",
-    "scientificName": "Aegle marmelos",
-    "type": "Medicinal/Fruit bearing",
-    "details": "Bel (Aegle marmelos), also known as Bengal quince, is a sacred tree with fruit used in Ayurveda to treat digestive disorders, diabetes, and infections. The pulp is consumed as juice or sherbet, especially in summer for its cooling effect. The leaves are offered in religious rituals and used for managing blood sugar and inflammation.",
-    "image": "Bel.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Guava (Amrood)",
-    "scientificName": "Psidium guajava",
-    "type": "Fruit bearing",
-    "details": "Guava (Psidium guajava) is a tropical fruit rich in vitamin C and dietary fibre. It provides antioxidants and essential minerals like potassium. Its consumption supports blood sugar control, heart health, and digestion. Cultivated widely in tropical regions, especially India, guava is enjoyed fresh or processed into juices, jams, and preserves. Guava leaves are also used to prepare herbal teas with medicinal benefits.",
-    "image": "Amrud.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Neem",
-    "scientificName": "Azadirachta indica",
-    "type": "Medicinal",
-    "details": "Neem (Azadirachta indica) is a medicinal tree native to the Indian subcontinent, known for its antibacterial, antifungal, and anti-inflammatory properties. It plays a key role in Ayurveda for treating skin disorders, infections, and digestive issues. Neem leaves, bark, and oil are used in herbal remedies, pest control, and natural cosmetics. The tree is drought-resistant and revered for its environmental and health benefits.",
-    "image": "Neem.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Banyan (Bargad)",
-    "scientificName": "Ficus benghalensis",
-    "type": "Sacred/Medicinal",
-    "details": "Bargad (Ficus benghalensis), or the banyan tree, is the national tree of India, known for its extensive aerial roots and spiritual significance. It offers shade and supports a diverse ecosystem. In traditional medicine, its bark, leaves, and latex are used to treat ulcers, skin diseases, and diabetes. It plays a central role in rural ecology and cultural heritage.",
-    "image": "Bargad.jpg"
+    "name": "Ajwain",
+    "scientificName": "Trachyspermum ammi",
+    "type": "Medicinal/Herb",
+    "details": "Ajwain, or carom seeds, is a medicinal herb recognized for its strong aroma and digestive benefits. The seeds are rich in thymol, which helps relieve indigestion, flatulence, and colds. Both the leaves and seeds are used in culinary dishes and Ayurvedic remedies across Indian households.",
+    "image": "Ajwain.jpg"
   }
 ]

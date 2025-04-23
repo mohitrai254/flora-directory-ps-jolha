@@ -14,7 +14,7 @@ interface PlantCardProps {
   name: string;
   scientificName: string;
   type: string;
-  image: string; // image file name should match the name in your assets
+  image: string;
 }
 
 const PlantCard = ({

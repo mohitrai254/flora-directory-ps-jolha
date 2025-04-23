@@ -20,7 +20,7 @@ const ContactUs = () => {
           <div className="flex-1">
             <h3 className="text-lg sm:text-xl font-bold mb-2">{school.name}</h3>
             <p className="mb-2 text-sm sm:text-base">
-              <span className="font-medium">Principal: </span>
+              <span className="font-medium">Head Mistress: </span>
               {school.principal}
             </p>
             {/* <span className="font-medium text-sm sm:text-base">Teachers:</span>

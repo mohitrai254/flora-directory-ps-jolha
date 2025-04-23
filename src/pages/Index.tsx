@@ -31,27 +31,35 @@ const Index = () => {
           </h1>
           <p className="text-green-700 max-w-2xl mx-auto animate-fade-in delay-200 px-4 text-sm sm:text-base">
             Explore our collection of medicinal, ornamental, and culturally
-            significant plants that grow in our school ground.
+            significant plants that grow in our school.
           </p>
         </header>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
-          {plants.map((plant, index) => (
-            <div
-              key={plant.id}
-              className={`transform transition-all duration-300 hover:scale-105 animate-fade-in`}
-              style={{ animationDelay: `${index * 100}ms` }}
-            >
-              <PlantCard
-                id={plant.id}
-                name={plant.name}
-                scientificName={plant.scientificName}
-                type={plant.type}
-                image={plant.image}
-              />
-            </div>
-          ))}
-        </div>
+        {plants.length <= 2 ? (
+          <div className="flex flex-wrap justify-center gap-4 md:gap-6">
+            {plants.map((plant, index) => (
+              <div
+                key={plant.id}
+                className="w-full sm:w-1/2 md:w-1/3 transform transition-all duration-300 hover:scale-105 animate-fade-in"
+                style={{ animationDelay: `${index * 100}ms` }}
+              >
+                <PlantCard {...plant} />
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
+            {plants.map((plant, index) => (
+              <div
+                key={plant.id}
+                className="transform transition-all duration-300 hover:scale-105 animate-fade-in"
+                style={{ animationDelay: `${index * 100}ms` }}
+              >
+                <PlantCard {...plant} />
+              </div>
+            ))}
+          </div>
+        )}
       </div>
 
       <footer className="bg-green-50 py-4 md:py-6 mt-8 md:mt-12 animate-fade-in">
